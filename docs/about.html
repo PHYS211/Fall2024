@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>PHYS211F24website - Start Here</title>
+<title>PHY117S24 - About</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -63,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-sidebar docked nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -71,7 +105,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">PHYS211F24website</span>
+    <span class="navbar-title">PHY117S24</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -85,38 +119,89 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="https://phys211.github.io/" rel="" target="_blank">
+ <span class="menu-text">Course Description</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://docs.google.com/spreadsheets/d/1Oa5DOrJSYn9FjScxstXVl5GqbK4QU8z5TM0DqPHljqs/edit?usp=sharing" rel="" target="_blank">
+ <span class="menu-text">Schedule</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-syllabus-and-faq" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Syllabus and FAQ</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-syllabus-and-faq">    
+        <li>
+    <a class="dropdown-item" href="./starthere.html" rel="" target="">
+ <span class="dropdown-text">Start Here</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./syllabus.html" rel="" target="">
+ <span class="dropdown-text">Syllabus</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./FAQ.html" rel="" target="">
+ <span class="dropdown-text">FAQ</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="dropdown-header">
+ <span class="menu-text">sidebar:coursecontent</span></li>
 </ul>
             <div class="quarto-navbar-tools ms-auto">
 </div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">About</li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./starthere.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Start Here</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./syllabus.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Syllabus</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./FAQ.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">FAQ</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#fill-out-the-welcome-form" id="toc-fill-out-the-welcome-form" class="nav-link active" data-scroll-target="#fill-out-the-welcome-form">Fill out the welcome form</a></li>
-  <li><a href="#read-the-syllabus" id="toc-read-the-syllabus" class="nav-link" data-scroll-target="#read-the-syllabus">Read the syllabus</a></li>
-  <li><a href="#keep-an-eye-on-the-schedule" id="toc-keep-an-eye-on-the-schedule" class="nav-link" data-scroll-target="#keep-an-eye-on-the-schedule">Keep an eye on the schedule</a></li>
-  <li><a href="#still-have-questions" id="toc-still-have-questions" class="nav-link" data-scroll-target="#still-have-questions">Still have questions?</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Start Here</h1>
+<h1 class="title">About</h1>
 </div>
 
 
@@ -131,27 +216,15 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Welcome to PHYS 211, Fall 2024!</p>
-<p>Not sure where to start? I’ve put together a guide.</p>
-<p>This website contains the syllabus and an FAQ. If you are looking for handouts, in-class activities, specific assignments, or class slides, those will all be in the course page in Lyceum. If you are enrolled in the class but do not have access to Lyceum, please let me know immediately so I can add you.</p>
-<section id="fill-out-the-welcome-form" class="level1">
-<h1>Fill out the welcome form</h1>
-<p>The first thing you should do for this class is fill out the <a href="https://forms.gle/5KFteqHBMPHMy9QF7">welcome form</a>. This form is quick and should be completed by the end of the first week of class. It will help me to support you in this class and will only take a few minutes of your time!</p>
-</section>
-<section id="read-the-syllabus" class="level1">
-<h1>Read the syllabus</h1>
-<p>I’ve tried to make the syllabus relatively short, sweet, and well-organized. It’s all on this website, so please take a minute to read the <a href="./syllabus.html">syllabus page</a>.</p>
-</section>
-<section id="keep-an-eye-on-the-schedule" class="level1">
-<h1>Keep an eye on the schedule</h1>
-<p>The schedule for this class is in a <a href="">google doc</a> so that it can be updated as needed. Sometimes, things happen. Those things might be snow days, illnesses, travel, or just needing more time than anticipated on a topic. If needed, I may move due dates or adjust readings or topics in the schedule. I will talk about these changes in the classroom, but if you ever need to check a due date, the schedule will have the most up-to-date information.</p>
-</section>
-<section id="still-have-questions" class="level1">
-<h1>Still have questions?</h1>
-<p>If you’ve read the syllabus and still have questions, check out the <a href="./FAQ.html">FAQ</a>. If you have a question that’s not answered on that page, please feel free to email me! I’ve tried to collect the kinds of questions I get the most to save you time, but I know that not all questions can be answered with this website and am always happy to hear from you.</p>
+<p>About this site</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 2</code></pre>
+</div>
+</div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -385,20 +458,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-          // target, if specified
-          link.setAttribute("target", "_blank");
-      }
-    }
 });
 </script>
 </div> <!-- /content -->
