@@ -227,6 +227,32 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,
   color: var(--bs-primary-color);
 }
 
+.btn-gray {
+  background-color: $bates-light-gray;
+  border: 2px solid $black;
+  border-radius: 8px;
+  text-transform: uppercase;
+  color: $bates-garnet;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.btn-garnet {
+  background-color: $bates-garnet;
+  border: 2px solid $bates-dark-gray;
+  border-radius: 8px;
+  text-transform: uppercase;
+  color: $white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
 .btn-group {
   .dropdown-menu {
     border-top-width: 0;

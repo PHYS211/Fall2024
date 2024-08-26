@@ -29,6 +29,13 @@ website:
        - starthere.qmd
        - syllabus.qmd
        - FAQ.qmd
+       
+    - id: coursecontent
+      title: "Course Content"
+      style: "docked"
+      background: light
+      contents:
+       - coursecontent.qmd
 
    
 format:
