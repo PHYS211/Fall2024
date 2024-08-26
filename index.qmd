@@ -33,10 +33,20 @@ You can see the PHYS 211 course description [here](https://phys211.github.io/).
 
 By the end of this course, you will be able to
 
--   
+-   Demonstrate skills of approximation and estimation to gain insight into physical situations and to check if solutions are reasonable
+-   Implement strategies that build intuition for setting up and approaching problems in mechanics.  
+-   Connect mathematical skills with physical concepts to solve problems related to force, momentum, energy, and angular momentum
+-   Use reflection and recall to monitor and evaluate your own learning, connecting to the principles of a growth mindset
+-   Collaborate with fellow students, recognizing their strengths and humanity, in ways that foster mutually supportive relationships and a sense of belonging in the community
+
 
 ## Course Topics
 
 This course covers the following content:
 
--   
+-   Problem-solving skills
+-   Kinematics in multiple coordinate systems
+-   Newton's laws and forces
+-   Collisions and momentum
+-   Energy transfer and conservation laws
+-   Rotational kinematics, torque, and angular momentum
