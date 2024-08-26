@@ -56,14 +56,48 @@ You can learn more about each bundle below:
 [Problem Projects](#problemproject)
 
 
+### Grading Scheme {#gradingscheme}
+
+### Table of letter grades
+
 | Letter grade | Pre-Class Questions (PCQs) | Weekly Homeworks (WHWs) | Portfolio       | Unit tests (x3)       | Problem projects (x2)
 |--------------|----------------------------| ------------------------|-----------------|-----------------------| ----------------------|
-| D            | Complete 70%               | Earn 60% of points      | Pass 5 problems | M on at least 1       | Optional (replaces a grade item)
-| C            | Complete 70%               | Earn 60% of points      | Pass 6 problems | M on at least 2       | Optional (replaces a grade item)
-| B            | Complete 70%               | Earn 60% of points      | Pass 7 problems | M on all 3            | Must attempt one (replaces a grade item)
-| A            | Complete 70%               | Earn 60% of points      | Pass 8 problems | M on all 3, plus 1 E  | Must achieve an M on one (replaces a grade item)
+| D            | Complete 70%               | Earn 60% of points      | At least M on 4 problems | At least M on 1       | Optional (replaces a grade item)
+| C            | Complete 70%               | Earn 60% of points      | At least M on 6 problems | At least M on 2       | Optional (replaces a grade item)
+| B            | Complete 70%               | Earn 60% of points      | At least M on all problems, plus 1 E | At least M on all 3            | Must attempt one (replaces a grade item)
+| A            | Complete 70%               | Earn 60% of points      | At least M on all problems, plus 3 Es | At least M on all 3, plus E on at least 1  | Must achieve an M on one (replaces a grade item)
 
 : Letter grades {.striped .hover}
+
+
+### Bundle visualization 
+
+![](images/PHYS211_GradingBundles.png)
+
+### Grading scales
+::: panel-tabset
+#### Points
+Homeworks will be graded on a points scale: each WHW is worth 100 points, and you can earn a portion of those points by successfully and thoroughly solving the problem on the homework.
+
+#### Completion
+
+Pre-class questions will be graded on completion. What this means is that you must give a good-faith attempt at the problem, but do not need to get it correct. If you turn nothing in, or turn in something that is incomplete or unrelated, you will get no credit for the PCQ.
+
+#### E/M/U/N
+Unit tests, individual final portfolio problems, and the two problem projects will be graded on the following scale:
+
+- E: excellent -- this is a thorough and correct answer that demonstrates excellent understanding of the concepts and makes proper use of the mathematical skills expected in this class.
+- M: meets expectations -- this is an answer that demonstrates solid understanding of the concepts but perhaps includes some small mathematical errors or minor conceptual mistakes.
+- U: unsatisfactory / does not meet expectations -- this is an answer that applies the concepts incorrectly, misunderstands the point of the question, does not complete the question, and/or contains significant mathematical errors
+- N: no submission -- if you turn nothing in, you will receive an N.
+
+E and M are considered passing grades. To get an A or B in this class, you must achieve some Es (see the [grading scheme](#gradingscheme))
+
+U and N are considered failing grades.
+
+
+:::
+
 
 ### Grading bundles
 
@@ -99,7 +133,7 @@ Each problem is graded on an [E/M/U/N scale](), and an E and M are both consider
 You may request an extensions on the final portfolio using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6). Please note, however, that deadline cannot be extended beyond the end of final exam period.
 
 #### Unit tests {#tests}
-
+There will be three unit tests during class throughout this semester.
 
 These are graded on an [E/M/U/N scale](), and you may retake each unit test up to two times.
 
