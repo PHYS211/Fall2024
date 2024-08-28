@@ -14,7 +14,9 @@ This website contains the syllabus an FAQ. If you are looking for handouts, in-c
 
 # Get the textbook
 
-If you have not yet, please make sure you get the textbook for this class, which is "An Introduction to Mechanics, 2nd edition, Cambridge University Press, by Kleppner & Kolenkow (2014)". The library should have copies available, but you can also purchase it at the Bates bookstore.
+If you have not yet, please make sure you get the textbook for this class, which is "An Introduction to Mechanics, 2nd edition" by Kleppner & Kolenkow (Cambridge University Press). The library should have copies available, but you can also purchase it at the Bates bookstore.
+
+![](images/KandK.jpg){width=200}
 
 It is very important that you get the second edition, as the pagination is different in other editions.
 
