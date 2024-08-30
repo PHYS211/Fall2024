@@ -7,7 +7,14 @@ editor: source
 
 ---
 
+
+# About this course
+
 Welcome to the Fall 2024 class of PHYS 211!
+
+If this is your first time on the course website, I recommend you 
+
+<a target="_blank" class="btn-garnet" href=starthere.qmd>Start Here</a>
 
 # Land Acknowledgment
 
@@ -18,12 +25,6 @@ A land acknowledgment is only a start, and should not be seen as absolving this 
 I choose to include a land acknowledgment in my syllabus because the field of Physics is not neutral--the people who are able to pursue this work are products of systemic structures that deny opportunities to many communities, and as a result, our work and our culture is limited by bias. To consider Physics or any other scientific subject to be "neutral" or unrelated to issues of social structures is misleading at best. This applies to all marginalized identities, not just Indigenous groups, but the history of sovereignty violations to Indigenous lands in the Americas is crucial to recognize as an institution of higher learning built on this land.
 
 If you want to know more about the status of Indigenous groups here in Maine, check out the work being done by [Wabanaki Reach](https://www.wabanakireach.org/).
-
-# About this course
-
-If this is your first time on the course website, I recommend you 
-
-<a target="_blank" class="btn-garnet" href=starthere.qmd>Start Here</a>
 
 ## Course Description
 

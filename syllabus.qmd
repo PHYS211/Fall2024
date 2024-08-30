@@ -83,7 +83,7 @@ Homeworks will be graded on a points scale: each WHW is worth 100 points, and yo
 
 Pre-class questions will be graded on completion. What this means is that you must give a good-faith attempt at the problem, but do not need to get it correct. If you turn nothing in, or turn in something that is incomplete or unrelated, you will get no credit for the PCQ.
 
-#### E/M/U/N
+#### E/M/U/N {#emun}
 Unit tests, individual final portfolio problems, and the two problem projects will be graded on the following scale:
 
 - E: excellent -- this is a thorough and correct answer that demonstrates excellent understanding of the concepts and makes proper use of the mathematical skills expected in this class.
@@ -122,20 +122,20 @@ You may request extensions on the WHWs using the [extension form](https://forms.
 #### Final Portfolio {#portfolio}
 The idea for this final portfolio assignment is to demonstrate what you have learned in the course and to create something for which you can take ownership and feel proud. We will get a lot of practice with problem solving this semester, and this is a chance to go back and curate some of what you have done. 
 
-The intended audience for the problem-solving and video portions of this assignment is a fellow student who had not previously seen the homework questions you have chosen, but is curious to know how to solve them. For example, you could imagine yourself at the beginning of the semester, or a classmate earlier this semester who was unsure how to approach a problem. Would that intended audience be able to understand your approach and your logic? Would they feel empowered to learn based on what you have created for them?
+The intended audience for this assignment is a fellow student who had not previously seen the homework questions you have chosen, but is curious to know how to solve them. For example, you could imagine yourself at the beginning of the semester, or a classmate earlier this semester who was unsure how to approach a problem. Would that intended audience be able to understand your approach and your logic? Would they feel empowered to learn based on what you have created for them?
 
 The intended audience for this reflection portion of the assignment is your future self (perhaps a year from now). How could you help that future version of yourself understand what your learning process was like this semester? 
 
 The assignment will involve redoing 8 homework questions (one from each homework assignment) in a manner that clearly presents the logic and reasoning behind your answers. It will be useful to restate the problem in your own words, clearly identifying known and unknown quantities. In many cases, it will be useful to draw a picture of the situation and to establish a clear coordinate system. You will then want to describe and demonstrate your approach to solving the problem. Once you arrive at an answer, it will also be helpful to reflect on the implications of that answer. This could include a consideration of how the answer depends on certain variables, or how the answer might be different for a slightly different situation.
 
-Each problem is graded on an [E/M/U/N scale](), and an E and M are both considered passing grades.
+Each problem is graded on an [E/M/U/N scale](#emun), and an E and M are both considered passing grades.
 
-You may request an extensions on the final portfolio using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6). Please note, however, that deadline cannot be extended beyond the end of final exam period.
+You may request an extension on the final portfolio using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6). Please note, however, that deadline cannot be extended beyond the end of final exam period.
 
 #### Unit tests {#tests}
 There will be three unit tests during class throughout this semester.
 
-These are graded on an [E/M/U/N scale](), and you may retake each unit test up to two times.
+These are graded on an [E/M/U/N scale](#emun), and you may retake each unit test up to two times.
 
 #### Problem Projects {#problemproject}
 
@@ -147,7 +147,7 @@ The student becomes the teacher... you will have two opportunities to write a ph
 -   write up a detailed solution to that problem using the [four-step problem solving method](coursecontent.qmd#fourstepmethod)
 -   explain how your problem tests understanding for the concepts you selected
 
-These are graded on an [E/M/U/N scale](), and you may each problem project score to replace one of the following:
+These are graded on an [E/M/U/N scale](#emun), and you may use each problem project score to replace one of the following:
 
 - your WHW score for the semester (an M or higher gives you full credit)
 - your PCQ score for the semester (an M or higher gives you full credit)

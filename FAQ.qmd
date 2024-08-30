@@ -19,9 +19,9 @@ editor: source
 
 ## Where do I get my textbook?
 
-Textbook: An Introduction to Mechanics, 2nd edition, Cambridge University Press, by Kleppner & Kolenkow (2014)
+The textbook for this class is "An Introduction to Mechanics, 2nd edition" by Kleppner & Kolenkow (Cambridge University Press). The library should have copies available, but you can also purchase it at the Bates bookstore.
 
-You can get a copy of the textbook at the Bates bookstore, or at the library. You are also welcome to order it yourself online, but please make sure you get the second edition.
+![](images/KandK.jpg){width=200}
 
 ## When are your office hours? {#officehours}
 
@@ -91,7 +91,9 @@ Second, if you are feeling really overwhelmed, consider scheduling an appointmen
 
 ## I have academic accommodations. What should I do? {#accommodations}
 
-I have tried to bring the concept of [universal design](https://www.washington.edu/doit/what-universal-design-0) into how I have planned and structured this course, so I hope that any accommodations you have are already built into this course. However, I don't expect to have done this perfectly (as there is no such thing), so if you have need of certain accommodations that are not already provided by this class, please let me know and I will do my best to meet those needs.
+
+I have tried to bring the concept of [universal design](https://www.washington.edu/doit/what-universal-design-0) into how I have planned and structured this course, so I hope that any accommodations you have are already built into this course (aside from extra time on tests, which can't be accommodated during class times, but you can take the tests through [Accessible Education and Student Support](https://www.bates.edu/accessible-education-student-support/requesting-services/how-to-register-for-accommodations/). However, I don't expect to have done this perfectly (as there is no such thing), so if you have need of certain accommodations that are not already provided by this class, please let me know and I will do my best to meet those needs.
+
 
 ## What if I need more support in this class? {#extrahelp}
 
