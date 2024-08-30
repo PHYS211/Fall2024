@@ -14,13 +14,10 @@ editor: source
 
 ## Math and Physics Resources {#contentresources}
 
-[Videos: Khan Academy's unit on linear algebra](https://www.khanacademy.org/math/linear-algebra)
-
-[Videos: Khan Academy's unit on differential equations](https://www.khanacademy.org/math/differential-equations)
 
 [Videos: Khan Academy's unit on multivariable calc](https://www.khanacademy.org/math/multivariable-calculus)
 
-[Videos: Khan Academy's unit on probabilities](https://www.khanacademy.org/math/statistics-probability/probability-library)
+[Videos: Khan Academy's unit on series and approximations](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-11/v/maclaurin-and-taylor-series-intuition)
 
 ## Study and Professional Skills Resources {#profdevresources}
 
