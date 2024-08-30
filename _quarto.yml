@@ -30,12 +30,13 @@ website:
        - syllabus.qmd
        - FAQ.qmd
        
-    - id: coursecontent
-      title: "Course Content"
+    - id: resources
+      title: "Resources"
       style: "docked"
       background: light
       contents:
        - coursecontent.qmd
+       - resources.qmd
 
    
 format:
