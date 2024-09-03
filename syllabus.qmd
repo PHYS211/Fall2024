@@ -104,15 +104,15 @@ U and N are considered failing grades.
 ::: panel-tabset
 #### PCQs {#pcqs}
 
-In order to get the most out of class, you need to prepare. To do this, most days we will have a pre-class question due in Lyceum, which you must complete prior to class start. These are graded on completion, which simply means that you demonstrate a good-faith effort to solve the problem. You do not have to get it right, and we will go over the problem during class.
+In order to get the most out of class, you need to prepare. To do this, most days we will have a pre-class question due in Lyceum, which you must submit prior to class start. These are graded on completion, which simply means that you demonstrate a good-faith effort to solve the problem. You do not have to get it right, and we will go over the problem during class.
 
 Given the purpose of the PCQs, I will not offer extensions, except in case of a major medical or family emergency that causes you to miss class.
 
 #### WHWs {#whws}
 
-Regular problem-solving is very important to developing confidence and skill in this content, so every week you will have a short weekly problem set. You will turn in the weekly problem set by scanning and uploading as a PDF to Moodle. These are due by midnight each Wednesday.
+Regular problem-solving is very important to developing confidence and skill in this content, so every week you will have a short weekly problem set. You will turn in the weekly problem set by scanning and uploading as a PDF to Moodle. These are due by 8PM each Wednesday.
 
-5% of each homework is a reflection question, which means that simply responding to it will earn you the points, and each homework is graded out of 100 points. To pass this bundle (which is required to pass the class), you must earn 60% of all the available homework points throughout the semester. 
+5% of each homework is a reflection question, which means that simply responding to it will earn you the points, and each homework is graded out of 100 points. To pass this bundle (which is required to pass the class), you must earn 60% of all the available homework points throughout the semester. In general, the majority of questions will be on material covered on or before the Friday before the WHW is due, but there may be a question on material covered the Monday before the WHW is due. This means you should be able to complete most of the homework before Monday's class!
 
 You may work with classmates on the homework, but please be sure to give credit in your reflection question.
 
@@ -133,7 +133,7 @@ You may request an extension on the final portfolio using the [extension form](h
 #### Unit tests {#tests}
 There will be three unit tests during class throughout this semester. The tests are cumulative, but they will largely focus on the more recent material. These tests will occur in class, and you may bring a single-sided 8.5"x11" sheet of paper with equations and notes - hand-written (please speak to me if you need to type the sheet and we will come up with a plan). This paper will be turned in with your test.
 
-These are graded on an [E/M/U/N scale](#emun), and you may retake each unit test up to two times during the scheduled make-up test days. 
+These are graded on an [E/M/U/N scale](#emun), and you may retake each unit test up to two times during the scheduled make-up test days. In order to retake a unit test, you must first correct your first unit test and complete a short reflection in a [Google form](https://forms.gle/rfhtp2ALtBY8JFGT9).
 
 #### Problem Projects {#problemproject}
 
