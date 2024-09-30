@@ -15,7 +15,7 @@ editor: source
 
 1. Determine what key concepts will help you solve the problem
 
-2. Gather your information -- draw a picture, choose a coordinate system, identify "givens" in the problem statement (which are allowed to be in your answer), and determine your goal (what quantity you are solvign for and any special conditions for it)
+2. Gather your information -- draw a picture, choose a coordinate system, identify "givens" in the problem statement (which are allowed to be in your answer), and determine your goal (what quantity you are solving for and any special conditions for it)
 
 3. Solve: find appropriate equations (hint: your key concepts will help a lot here), and use those equations and math tools to eliminate all unknowns and lead to your answer.
 
@@ -29,8 +29,8 @@ editor: source
 Position, velocity, and acceleration and the time derivatives/integrals that relate them
 
 Special types of kinematics:
-  - Expressing position, velocity, and acceleration in polar coordinates
-  - Constant speed, fixed length, and constant acceleration motion 
+  * Expressing position, velocity, and acceleration in polar coordinates
+  * Constant speed, fixed length, and constant acceleration motion 
 
 ## Forces
 
@@ -41,15 +41,15 @@ Newton's second law and relating forces to motion
 Newton's third law and force-related interactions between objects
 
 In addition, we have seen the following forces
-  - Gravity (on a planet)
-  - Universal Gravitation (Gravity in space)
-  - Tension
-  - Push and pull forces
-  - Normal force
-  - Static friction (three cases: definitely not moving, maybe going to move, on the verge of moving)
-  - Kinetic friction
-  - Velocity-dependent forces (drag, etc)
-  - Spring force
+  * Gravity (on a planet)
+  * Universal Gravitation (Gravity in space)
+  * Tension
+  * Push and pull forces
+  * Normal force
+  * Static friction (three cases: definitely not moving, maybe going to move, on the verge of moving)
+  * Kinetic friction
+  * Velocity-dependent forces (drag, etc)
+  * Spring force
 
 ## Collisions and Interactions
 
@@ -74,9 +74,9 @@ Using Taylor/MacLauren series when dealing with something small
 ## Curvilinear Coordinate Systems
 
 Working in polar coordinates, including
-  - Time derivatives of vectors in polar coordiantes
-  - Time dependence of unit vectors in polar coordinates
-  - Translating between Cartesian and polar coordinates
+  * Time derivatives of vectors in polar coordiantes
+  * Time dependence of unit vectors in polar coordinates
+  * Translating between Cartesian and polar coordinates
 
 ## Integrals
 
