@@ -29,6 +29,7 @@ editor: source
 Position, velocity, and acceleration and the time derivatives/integrals that relate them
 
 Special types of kinematics:
+
   - Expressing position, velocity, and acceleration in polar coordinates
   - Constant speed, fixed length, and constant acceleration motion 
 
@@ -40,7 +41,8 @@ Newton's second law and relating forces to motion
 
 Newton's third law and force-related interactions between objects
 
-In addition, we have seen the following forces
+In addition, we have seen the following forces:
+
   - Gravity (on a planet)
   - Universal Gravitation (Gravity in space)
   - Tension
@@ -73,7 +75,8 @@ Using Taylor/MacLauren series when dealing with something small
 
 ## Curvilinear Coordinate Systems
 
-Working in polar coordinates, including
+Working in polar coordinates, including:
+
   - Time derivatives of vectors in polar coordinates
   - Time dependence of unit vectors in polar coordinates
   - Translating between Cartesian and polar coordinates
