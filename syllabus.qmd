@@ -175,6 +175,16 @@ If you earn at least 90% of the available homework points, you will gain a grade
 #### Growth Boost
 
 If you demonstrate consistent improvement in your work across the semester, I reserve the right to round your grade up.
+
+
+#### Metacognition Boost
+
+In order to get this boost, you must do all of the following
+  - Fill out the [mid-semester survey](https://forms.gle/K3kqhLWRtxuAd45U8) before class on 10/25
+  - Attend the SASC workshop during class on 10/25
+  - Attend at least one SASC Physics 211 help session and [fill out a response](https://forms.gle/qudMKQ4FJX76pBef9) about your experience
+  - Set a SMART goal (this will be evaluated on whether it meets the criteria) for a study skill to improve
+  - Reflect on your goal at the end of the semester.
 :::
 
 ## Deadlines and Extensions {#deadlines}
